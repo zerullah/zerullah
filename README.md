@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=000x16x3b&label=Profile%20views&color=0e75b6&style=flat" alt="000x16x3b" /> </p>
 
 
-- 📫 Bana Nasil ulaşirsiniz ? *tbmmgov@outlook.com*
+- 📫 Bana Nasil ulaşirsiniz ? *tbmmgov@outlook.com , discord : tbmm.gov.tr*
 
 <p align="left">
 </p>
