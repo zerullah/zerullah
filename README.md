@@ -6,7 +6,6 @@
 
 - 📫 Bana Nasil ulaşirsiniz ? *tbmmgov@outlook.com*
 
-<h3 align="left">Hesaplarıma Göz Atın:</h3>
 <p align="left">
 </p>
 
