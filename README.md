@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba👋 Ben zero (tbmm.gov.tr)</h1>
 <h3 align="center">UĞRAMAK, KADERINIZ</h3>
-
+![](https://github.com/zerullah/zerullah/blob/main/8Ogxw5JmSxygJJFa2p97gg.png?raw=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=000x16x3b&label=Profile%20views&color=0e75b6&style=flat" alt="000x16x3b" /> </p>
 
 
